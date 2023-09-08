@@ -1,16 +1,8 @@
-# menu
+# MEnU
 
-A new Flutter application.
+A platform where different users can come together and share their experience with food with
+others. A place where beginners can explore dishes made by experienced
+cooks who can share their recipes and images online. A platform where the user is given
+recipe recommendations based on the ingredients available to them.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/millonigada/menu/assets/55308066/4f96978d-e64a-4232-9d09-d04a9ea08ee8
